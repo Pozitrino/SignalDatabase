@@ -65,9 +65,9 @@ Pokud je uživatel s anotací spokojení, kliknutím na „Save annotation" se a
 
 Ovládací prvky v záložce Filters:
 
-Lowpass - Aplikuje lowpass variaci na Butterwortha filtru 
-Highpass - Aplikuje highpass variaci na Butterwortha filtru 
-Bandpass - Aplikuje Bandpass variaci na Butterwortha filtru 
-Bandstop - Aplikuje Bandstop variaci na Butterwortha filtru 
-Filter channels - volba na který kanál chceme filtr aplikovat. Pokud prázdný, aplikuje se na všechny.
-Filter order - přesnost filtru
+- Lowpass: Aplikuje lowpass variaci na Butterwortha filtru 
+- Highpass: Aplikuje highpass variaci na Butterwortha filtru 
+- Bandpass: Aplikuje Bandpass variaci na Butterwortha filtru 
+- Bandstop: Aplikuje Bandstop variaci na Butterwortha filtru 
+- Filter channels: volba na který kanál chceme filtr aplikovat. Pokud prázdný, aplikuje se na všechny.
+- Filter order: přesnost filtru

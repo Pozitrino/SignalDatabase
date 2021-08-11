@@ -7,18 +7,19 @@ Webová služba pro ukládání a analýzu signálů
 Libovolné vývojové prostředí pro jazyk Python (program byl testován v prostředí Spyder s distribucí Anaconda).
 Instalace následujícíh knihoven:
 
--numpy (pip install numpy)
--dash (pip install dash)
--dash_table (pip install dash-table)
--flask (pip install Flask)
--dash_html_components (pip install dash-html-components)
--dash_core_components (pip install dash-core-components)
--plotly (pip install plotly)
--werkzeug (pip install Werkzeug)
--pymongo (pip install pymongo)
--pandas (pip install pandas)
--scipy (pip install scipy)
--heartpy (pip install heartpy)
+- numpy (pip install numpy)
+- dash (pip install dash)
+- dash_table (pip install dash-table)
+- flask (pip install Flask)
+- dash_html_components (pip install dash-html-components)
+- dash_core_components (pip install dash-core-components)
+- plotly (pip install plotly)
+- werkzeug (pip install Werkzeug)
+- pymongo (pip install pymongo)
+- dnspython (pip install dnspython)
+- pandas (pip install pandas)
+- scipy (pip install scipy)
+- heartpy (pip install heartpy)
 
 Služba se poté spouští otevřením a spuštěním skriptu app.py ve vývojovém prostčedí pro jazyk Python, který se nachází v kořenovém 
 adresáři. Ke službě uživatel přistupuje přes webový prohlížeč na adrese localhost http://127.0.0.1:8050/.

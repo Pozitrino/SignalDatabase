@@ -138,7 +138,7 @@ class LocalUtil:
           for i in indexer:
              if re.match(regx, i[key]):
                  id_list.append(i)
-          return 
+          return id_list  
       
   #Returns indexer with metadata 
   def return_indexer(self) -> dict:
@@ -160,7 +160,7 @@ class LocalUtil:
       for i in indexer:
              id_list.append(i) 
              
-      return 
+      return id_list  
   
   #Returns first aviable id
   def next_id(self) -> int:      

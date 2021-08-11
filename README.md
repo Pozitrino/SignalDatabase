@@ -4,7 +4,7 @@ Webová služba pro ukládání a analýzu signálů
 
 # POŽADAVKY
 
-Libovolné vývojové prostředí pro jazyk Python (program byl testován v prostředí Spyder).
+Libovolné vývojové prostředí pro jazyk Python (program byl testován v prostředí Spyder s distribucí Anaconda).
 Instalace následujícíh knihoven:
 
 -numpy (pip install numpy)
@@ -20,8 +20,8 @@ Instalace následujícíh knihoven:
 -scipy (pip install scipy)
 -heartpy (pip install heartpy)
 
-Služba se poté spouští otevřením a spuštěním skriptu app.py, který se nachází v kořenovém adresáři. Ke službě uživatel přistupuje přes 
-webový prohlížeč na adrese localhost http://127.0.0.1:8050/
+Služba se poté spouští otevřením a spuštěním skriptu app.py ve vývojovém prostčedí pro jazyk Python, který se nachází v kořenovém 
+adresáři. Ke službě uživatel přistupuje přes webový prohlížeč na adrese localhost http://127.0.0.1:8050/.
 
 ---------------------------------------------------------------------------------------------------------------------------------------
 
